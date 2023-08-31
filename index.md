@@ -10,3 +10,16 @@ Updated index.md
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Updated index.md with an image
+
+```cpp
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout<<"Hello Compiler, I am C++";
+    cout<<endl;
+    return 0;
+}
+```
+
+Updated index.md with a C++ code block
