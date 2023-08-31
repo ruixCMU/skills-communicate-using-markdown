@@ -6,3 +6,7 @@
 ###### This is an `<h6>` header
 
 Updated index.md
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Updated index.md with an image
